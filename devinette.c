@@ -818,6 +818,7 @@ while( vie >= 0){
 printf("----------------------------Fin du jeu---------------------------- \n\n");
 if (point == 15){
 	printf(" Tu as accumulé un total de %d points ! TROP FORT ! T ES LE(LA) KING !!! Fait attention à ne pas te faire détrôner !!\n\n",point);
+	printf("----------------------------BYE---------------------------- \n\n");
 }
 else {
 	printf(" Tu as accumulé un total de %d points ! Pas mal ! Défie tes potes de faire mieux ! \n\n",point);
